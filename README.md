@@ -3,8 +3,8 @@
 
 ## Contributors 
 
-* Amanda McNesby
-* Deborah Rabinovich
+1. Amanda McNesby
+2. Deborah Rabinovich
 
 This repo is used to teach collaboration in a git repo.
 
